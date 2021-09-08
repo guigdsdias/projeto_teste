@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Este projeto esta construido com:
+Este projeto esta construído com:
 - React (Hook, Route) 
 - Boostrap React
 
@@ -13,12 +13,10 @@ OBS: Necessário ter o node e npm configurados, caso ainda não tenha siga esse 
 ### `cd Front-End-TINNOVA` 
 2 - Será necessario baixar as dependências do projeto, executando o comando:
 ### `npm install` 
-3 - Após dependencias instaladas, vamos rodar o projeto com:
+3 - Após dependências instaladas, vamos rodar o projeto com:
 ### `npm start` 
 Se tudo aconteceu bem, podemos acessa o link
 [http://localhost:3000](http://localhost:3000).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 
