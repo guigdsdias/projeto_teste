@@ -6,7 +6,7 @@ Este projeto esta construído com:
 
 ## Rodando o projeto
 
-OBS: Necessário ter o node e npm configurados, caso ainda não tenha siga esse link: [https://nodejs.org/pt-br/], [https://docs.npmjs.com/getting-started]
+OBS: Necessário ter o node e npm configurados, caso ainda não tenha siga esses links: [https://nodejs.org/pt-br/], [https://docs.npmjs.com/getting-started]
 
 1 - Faça o clone do projeto.
 2 - Execute o comando abaixo para acessar a raiz do projeto:
